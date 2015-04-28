@@ -29,7 +29,7 @@ namespace Registar.Repository
             using(var scope = container.BeginLifetimeScope())
             {
                 var context = scope.Resolve<IDbContextBikes>();
-                context.Bikes.OrderBy(p => p.Colour).Take(2).ToList();
+                ((RegistarDbContext)context).Bikes.OrderBy(p => p.Colour).Take(2).ToList();
             }
             return bikes;
         }
@@ -40,7 +40,7 @@ namespace Registar.Repository
             Logging.LogInfo("===============StarSearchBike=============");
             using (var context =  DbContextManager.CreateRepository<IDbContextBikes>())               
             {//Sega tuka ke dojde Query-to sto go pisuvavme vo Business Layer                
-                bikes = context.Bikes.OrderBy(p => p.Colour).Take(2).ToList();                
+                bikes = ((RegistarDbContext)context).Bikes.OrderBy(p => p.Colour).Take(2).ToList();                
             }
             Logging.LogInfo("===============EndSearchBike===============");
             return bikes;
