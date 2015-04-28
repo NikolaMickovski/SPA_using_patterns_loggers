@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Registar.DataLayer
 {
     /// <summary>
-    /// Klasa koja e zamislena kako Repository Manager
+    /// Klasa koja e zamislena kako Repository Manager za Context
     /// </summary>
     public static class DbContextManager
     {
