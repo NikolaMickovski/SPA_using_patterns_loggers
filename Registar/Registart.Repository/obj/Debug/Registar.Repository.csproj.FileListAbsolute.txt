@@ -1,0 +1,1 @@
+D:\Documents\GitHub\SPA_using_patterns_loggers\Registar\Registart.Repository\obj\Debug\Registar.Repository.csprojResolveAssemblyReference.cache

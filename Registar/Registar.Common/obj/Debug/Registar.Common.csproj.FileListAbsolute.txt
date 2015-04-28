@@ -1,0 +1,9 @@
+D:\Documents\GitHub\SPA_using_patterns_loggers\Registar\Registar.Common\bin\Debug\Registar.Common.dll
+D:\Documents\GitHub\SPA_using_patterns_loggers\Registar\Registar.Common\bin\Debug\Registar.Common.pdb
+D:\Documents\GitHub\SPA_using_patterns_loggers\Registar\Registar.Common\obj\Debug\Registar.Common.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\SPA_using_patterns_loggers\Registar\Registar.Common\obj\Debug\Registar.Common.dll
+D:\Documents\GitHub\SPA_using_patterns_loggers\Registar\Registar.Common\obj\Debug\Registar.Common.pdb
+D:\Documents\GitHub\SPA_using_patterns_loggers\Registar\Registar.Common\bin\Debug\log4net.dll
+D:\Documents\GitHub\SPA_using_patterns_loggers\Registar\Registar.Common\bin\Debug\this.Log-log4net.dll
+D:\Documents\GitHub\SPA_using_patterns_loggers\Registar\Registar.Common\bin\Debug\this.Log.dll
+D:\Documents\GitHub\SPA_using_patterns_loggers\Registar\Registar.Common\bin\Debug\log4net.xml
